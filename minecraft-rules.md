@@ -12,6 +12,6 @@
 - Failure to follow these rules may result in an immediate kick from the server or a permanent ban, depending on the severity of the action, as determined by the moderator performing the action.
 
 # Be Nice!
-- Please don't build right next to spawn... you literally have millions of other places to choose from.
 - Please don't spawn-camp new players... at least give them a fighting chance!
 - Please join the Discord server to extend communication outside of Minecraft chat.
+- Unless you clear it with a Moderator first, please don't build right next to spawn... you literally have millions of other places to choose from.
