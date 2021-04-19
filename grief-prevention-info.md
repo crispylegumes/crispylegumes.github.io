@@ -1,6 +1,6 @@
 **[Home](https://crispylegumes.com)**
 
-Note: view the **[Minecraft Server Rules](https://crispylegumes.com/minecraft-rules.html)** page for specific land claim information
+Note: view the **[Custom Server Settings](https://crispylegumes.com/server-settings.html)** page for specific land claim information
 
 ## YouTube Video Links
 - [GriefPrevention Minecraft Server Plugin Overview](https://youtu.be/RWekSeMi1OE)
