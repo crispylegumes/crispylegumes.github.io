@@ -4,6 +4,7 @@ Chill your beans live on **[Twitch](https://www.twitch.tv/crispylegumes)**, conn
 
 ### See Also
 - Review the **[Minecraft Server Rules](/minecraft-rules.html)** page for a list of rules so you don't kicked off the server for doing something uncool.
+- Read the **[Custom Server Settings](/server-settings.html)** page to see how this server is customized, including specifics on land claiming.
 - View the **[Grief Prevention Info](/grief-prevention-info.html)** page for a list of commands available and quick summary of this powerful plugin to keep people from griefing your land.
 
 ### How To Join My Minecraft World
