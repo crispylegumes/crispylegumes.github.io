@@ -3,8 +3,8 @@
 Chill your beans live on **[Twitch](https://www.twitch.tv/crispylegumes)**, connect on **[Twitter](https://twitter.com/CrispyLegumes)** and **[Facebook](https://facebook.com/crispylegumes)** and you should certainly come play **Minecraft** on a Survival PVP world with **GriefPrevention** enabled (with 2,000 claim blocks automatically granted for all new players.)  The world was just started on April 18, 2021 so there is plenty of growth available.
 
 ### See Also
-- Review the **[Minecraft Server Rules](/minecraft-rules.md)** page for a list of rules so you don't kicked off the server for doing something uncool.
-- View the **[Grief Prevention Info](/grief-prevention-info.md)** page for a list of commands available and quick summary of this powerful plugin to keep people from griefing your land.
+- Review the **[Minecraft Server Rules](/minecraft-rules.html)** page for a list of rules so you don't kicked off the server for doing something uncool.
+- View the **[Grief Prevention Info](/grief-prevention-info.html)** page for a list of commands available and quick summary of this powerful plugin to keep people from griefing your land.
 
 ### How To Join My Minecraft World
 Hostname for experts: **`minecraft.crispylegumes.com`**
