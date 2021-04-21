@@ -2,7 +2,7 @@
 # Minecraft Custom Server Settings
 
 ## Server Properties
-- **Spawn Protection** is currently set to **`16 blocks`** (which means you will not be able to break blocks within this spawn area)
+- **Spawn Protection** is currently set to **`34 blocks`** (which means you will not be able to break blocks within this spawn area, currently lined with quartz-block.)
 - **Difficulty** is set to **`hard`**
 - **Max World Size** is currently set to **`50000`** (100,000 x 100,000 world border)
 
