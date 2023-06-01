@@ -11,12 +11,11 @@
   - Once blocks are claimed, they are nearly impossible to be griefed by other players.
   - If you leave a chest unprotected in your mine, then it's fair game for anyone to clear out.
   - You can always unclaim your land and move your stuff to a different location.
-- **Chunky**: Pre-built a large chunk of the world to prevent lag.
-- Some other miscellaneous plugins are installed for server management usage, including EssentialsX, EssentialsXChat, LuckPerms, Vault, and WorldEdit.
+- Some other miscellaneous plugins are installed for server management usage, including EssentialsX, LuckPerms, and Vault.
 
 ## Land Claim Info
 - **`2000`** claim blocks are automatically granted to new players
-- **`200`** new claim blocks are gained per hour of player activity
+- **`100`** new claim blocks are gained per hour of player activity
 - **`80000`** is the maximum number of claim blocks allowed to be accrued, unless claims are granted by an admin
 - Placing a chest on unclaimed ground grants you a one-time **automatic land claim** with a **`4 block radius`**
 - Claims extend from Bedrock to the Build Limit (note: this is different than the default GriefPrevention behavior which allows you to tunnel under another players claim by default.)
