@@ -3,10 +3,11 @@
 
 ## Server Properties
 - **Spawn Protection** is currently set to **`34 blocks`** (which means you will not be able to break blocks within this spawn area, currently lined with quartz-block.)
-- **Difficulty** is set to **`hard`**
+- **Difficulty** is set to **`normal`**
 - **Max World Size** is currently set to **`50000`** (100,000 x 100,000 world border)
 
 ## Minecraft Plugins Utilized
+- **mcMMO**: Great plugin that adds a little spice to Minecraft.  See their [wiki page](https://wiki.mcmmo.org/) for more info.
 - **GriefPrevention**: The world is a PVP world, allowing for player combat and it is also an open world.  However, GriefProtection is enabled to help protect your stuff by claiming land blocks.
   - Once blocks are claimed, they are nearly impossible to be griefed by other players.
   - If you leave a chest unprotected in your mine, then it's fair game for anyone to clear out.
