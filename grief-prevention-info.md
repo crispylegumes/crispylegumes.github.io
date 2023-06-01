@@ -4,6 +4,7 @@ Note: view the **[Custom Server Settings](https://crispylegumes.com/server-setti
 
 ## YouTube Video Links
 - [GriefPrevention Minecraft Server Plugin Overview](https://youtu.be/RWekSeMi1OE)
+- [How to Claim Land with the Grief Prevention Minecraft Server Plugin](https://youtu.be/VDsjXB-BaE0)
 - [GriefPrevention Minecraft Server Plugin Effectiveness](https://youtu.be/lEQCBuUz5Ns)
 - [How to Become a Mayor with the GriefPrevention Plugin](https://www.youtube.com/watch?v=I3FLCFam5LI)
 
